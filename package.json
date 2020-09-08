@@ -13,6 +13,7 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "express-validator": "^6.6.1",
+    "joi": "^17.2.1",
     "mongoose": "^5.10.3",
     "nodemon": "^2.0.4"
   }
